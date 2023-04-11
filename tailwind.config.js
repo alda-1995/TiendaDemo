@@ -39,16 +39,16 @@ export default {
           lineHeight: 1,
         },
         'h3, .h3': {
-          fontSize: "calc(18px + (36 - 18) * ((100vw - 300px) / (2300 - 300)))",
+          fontSize: "calc(18px + (22 - 18) * ((100vw - 300px) / (2300 - 300)))",
           lineHeight: 1.2,
         },
-        'h4, .h4': {
+        'h4, h5, .h4': {
           fontSize: "calc(16px + (18 - 16) * ((100vw - 300px) / (2300 - 300)))",
           lineHeight: 1,
         },
-        'h5, .h5': {
-          fontSize: "calc(9px + (16 - 9) * ((100vw - 300px) / (2300 - 300)))",
-          lineHeight: 1.5
+        '.font-button': {
+          fontSize: "calc(14px + (18 - 14) * ((100vw - 300px) / (2300 - 300)))",
+          lineHeight: 1.2
         },
         'p, .p': {
           fontSize: "calc(15px + (16 - 15) * ((100vw - 300px) / (2300 - 300)))",
