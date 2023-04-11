@@ -15,7 +15,6 @@ const useShoppingCart = () => {
     }, []);
 
     useEffect(() => {
-        console.log(cartItems);
         localStorage.setItem("cartItems", JSON.stringify(cartItems));
     }, [cartItems]);
 
@@ -33,7 +32,6 @@ const useShoppingCart = () => {
             setCartItems(cartItems => [...cartItems, dataCart]);
         }
     };
-
     // const removeCart = (item) => {
     //     setCartItems((itemsCurrent) => itemsCurrent.filter(c => c.id != item.id));
     // };
