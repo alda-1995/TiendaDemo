@@ -2,21 +2,25 @@
     {
         "id": "d46879b5-2dcd-43c8-921d-031821460ef2",
         "nombre": "Pantalón Cargo White",
-        "imgUrl": "/src/assets/pantalon-blanco.jpg"
+        "imgUrl": "/src/assets/pantalon-blanco.jpg",
+        "precio": 200
     },
     {
         "id": "36d4b843-36d6-4347-82df-091a3fff1cb0",
         "nombre": "Pantalón Cargo Estilo 2",
-        "imgUrl": "/src/assets/pantalon-guinda.jpg"
+        "imgUrl": "/src/assets/pantalon-guinda.jpg",
+        "precio": 150
     },
     {
         "id": "7a6fc84f-e949-4785-a695-29cb6166c200",
         "nombre": "Pantalón Cargo Estilo 3",
-        "imgUrl": "/src/assets/pantalon-negro.jpg"
+        "imgUrl": "/src/assets/pantalon-negro.jpg",
+        "precio": 250
     },
     {
         "id": "01b543aa-ceb6-4ff4-b7d7-47490099721a",
         "nombre": "Pantalón Cargo Estilo 4",
-        "imgUrl": "/src/assets/pantalon-verde.jpg"
+        "imgUrl": "/src/assets/pantalon-verde.jpg",
+        "precio": 220
     }
 ]

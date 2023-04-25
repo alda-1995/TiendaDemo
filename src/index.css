@@ -3,3 +3,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    .btn-general{
+        @apply inline-flex items-center justify-center relative overflow-hidden 
+        rounded-sm text-white h-[44px] py-2 px-8 font-button
+        hover:bg-utility;
+    }
+}
