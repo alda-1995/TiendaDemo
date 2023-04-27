@@ -1,6 +1,6 @@
 # Tienda Demo
 
-Tienda basica que te permite visualizar y agregar productos a tu carrito.
+Tienda basica que te permite visualizar y agregar productos a tu carrito consumiendo una api local con formato json.
 
 ## Comenzando 🚀
 
